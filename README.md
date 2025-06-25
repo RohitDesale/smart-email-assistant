@@ -89,17 +89,10 @@ This will open the Smart Email Assistant UI in your default browser.
 GOOGLE_API_KEY=your_google_api_key_here
 ```
 
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Author
 
-Developed by [sonu2164](https://github.com/sonu2164)
+Developed by [sonu2164](https://github.com/RohitDesale)
 
 ---
 
