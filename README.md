@@ -92,7 +92,7 @@ GOOGLE_API_KEY=your_google_api_key_here
 
 ## Author
 
-Developed by [sonu2164](https://github.com/RohitDesale)
+Developed by [Rohit](https://github.com/RohitDesale)
 
 ---
 
