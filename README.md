@@ -104,7 +104,4 @@ Developed by [Rohit Desale](https://github.com/RohitDesale)
 - Integrate with calendar and task management tools to create events or tasks directly from emails.
 - Support multiple email providers beyond Gmail for broader usability.
 - Improve natural language understanding to handle more complex and varied user commands.
-
-## Submission
-
-This project is submitted for Newel Technologies.
+.
