@@ -107,4 +107,4 @@ Developed by [Rohit Desale](https://github.com/RohitDesale)
 
 ## Submission
 
-This project is submitted for Quira Quest 25.
+This project is submitted for Newel Technologies.
